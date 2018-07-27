@@ -1,0 +1,13 @@
+{
+  "title": "我的学习",
+  "author": "袁光胜",
+  "description": "学习总结",
+  "plugins": [
+    "fontsettings",
+    "sharing",
+    "lunr",
+    "search",
+    "highlight",
+    "livereload"
+  ]
+}
